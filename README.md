@@ -1,5 +1,3 @@
-[TOC]
-
 ## 🎗️适用于 WordPress 博客的追番页面
 ***仅适用于 WordPress 博客系统***
 
