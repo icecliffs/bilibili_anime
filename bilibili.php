@@ -1,7 +1,7 @@
 <?php
 /**
 Template name: 哔哩哔哩追番页面
-Author: IceCliffs (Po7mn1)
+Author: rYu1nser
 Repositories: https://github.com/icecliffs/bilibili_anime
 */
 $uid = "28645589"; // 填入您的 uid
